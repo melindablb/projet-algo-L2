@@ -1,0 +1,1 @@
+Créer un programme en C pour gérer les tâches d'un projet, en utilisant des piles et des files pour organiser les tâches et leurs sous-tâches, tout en implémentant des fonctions récursives pour traiter les dépendances.
